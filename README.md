@@ -14,7 +14,7 @@ This system is designed as a prototype — in production, pricing data would lik
    - If no exact pricing match is found, the system falls back to **vector search** (Voyage AI embeddings) and **GPT-4** to generate helpful recommendations based on semantic similarity.
 
 
-## 📦 What's Included
+ 📦 What's Included
 
 - `BPE_Structured_v4.ipynb`:  
   Full Jupyter Notebook (Colab-ready) with:
@@ -26,7 +26,7 @@ This system is designed as a prototype — in production, pricing data would lik
 
 ---
 
-## 🚀 How to Run It (Colab or Local Jupyter)
+ 🚀 How to Run It (Colab or Local Jupyter)
 
 1. **Clone or download** this repository / Gist.
 
