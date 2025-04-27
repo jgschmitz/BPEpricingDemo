@@ -9,7 +9,7 @@ This system is designed as a prototype — in production, pricing data would lik
 1. **Structured Data First:**  
    - Pricing records (drug, pharmacy, location, price, etc.) are inserted into MongoDB (`drug_pricing` collection).
    - When a user asks a question, the assistant first tries to **find exact matches** by drug name and city using MongoDB queries.
-
+<br>
 2. **Vector Search + GPT-4 Fallback:**  
    - If no exact pricing match is found, the system falls back to **vector search** (Voyage AI embeddings) and **GPT-4** to generate helpful recommendations based on semantic similarity.
 
