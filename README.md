@@ -2,7 +2,7 @@ BPE Structured Pricing Assistant - Version 4.0 (Hybrid Search) 💊
 
 This project demonstrates a hybrid approach to pharmaceutical pricing assistance by combining structured MongoDB lookups with AI fallback search using vector embeddings and GPT-4.
 This system is designed as a prototype — in production, pricing data would likely come from automated ingestion pipelines or enterprise pricing databases.
----
+
 
  🛠️ How It Works
 
@@ -13,7 +13,6 @@ This system is designed as a prototype — in production, pricing data would lik
 2. **Vector Search + GPT-4 Fallback:**  
    - If no exact pricing match is found, the system falls back to **vector search** (Voyage AI embeddings) and **GPT-4** to generate helpful recommendations based on semantic similarity.
 
----
 
 ## 📦 What's Included
 
