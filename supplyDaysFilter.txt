@@ -1,0 +1,4 @@
+If a user says "I want a 90-day supply" —
+filter for documents where supply_days >= 90!
+
+(Your pricing table already includes supply_days, you're ready for this.)
