@@ -16,7 +16,7 @@ This system is designed as a prototype — in production, pricing data would lik
 
  📦 What's Included
 
-- `BPE_Structured_v4.ipynb`:  
+- `app.py`:  
   Full Jupyter Notebook (Colab-ready) with:
   - MongoDB setup
   - Pricing document insertion
