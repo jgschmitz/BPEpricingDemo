@@ -30,7 +30,7 @@ This system is designed as a prototype — in production, pricing data would lik
 
 1. **Clone or download** this repository / Gist.
 
-2. **Open `BPE_Structured_v4.ipynb`** in:
+2. **Open app.py** in:
    - Google Colab (recommended for easiest setup)
    - or Jupyter Notebook locally.
 
