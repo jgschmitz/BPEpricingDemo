@@ -2,6 +2,7 @@
 
 This project demonstrates a hybrid approach to pharmaceutical pricing assistance by combining structured MongoDB lookups with AI fallback search using vector embeddings and GPT-4.
 This system is designed as a prototype — in production, pricing data would likely come from automated ingestion pipelines or enterprise pricing databases.
+New version recommends using voyageAI for embeddings 
 
 
  🛠️ How It Works
